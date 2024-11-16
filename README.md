@@ -62,4 +62,4 @@ For test data the file GeoidHeights.dat.gz made available with the GeographicLib
 [4] http://earth-info.nga.mil/GandG/wgs84/gravitymod/egm96/intpt.html<br>
 [5] http://geographiclib.sourceforge.net/cgi-bin/GeoidEval<br>
 [6] http://geographiclib.sourceforge.net/html/geoid.html#testgeoid<br>
-[7] https://en.wikipedia.org/wiki/EGM96
+[7] https://vdatum.noaa.gov/docs/datums.html<br>
